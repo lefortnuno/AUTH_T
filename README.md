@@ -7,7 +7,12 @@ FORMATION FULLSTACK 2025 - ReactJS; NodeJs/ExpressJs; POSTGRESQL; API REST
 > git clone $\_URL_git
 > cd $\_PROJET
 > git checkout trofel
-> npm i
+> T
+
+- Tu ouvre VSCode et dans le terminal tu te met dans Server puis :
+
+  > cd Server
+  > npm i
 
 - Tu configures ".env"
   > npm start
